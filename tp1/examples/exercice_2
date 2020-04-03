@@ -1,0 +1,7 @@
+for i in range(21):
+    if (i % 2 == 0):
+
+        print('Le résultat est', i)
+        i = i + 1
+    else:
+        i = i + 1
